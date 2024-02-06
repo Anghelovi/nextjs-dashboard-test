@@ -1,7 +1,6 @@
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
-import { Inter, Lusitana } from 'next/font/google';
+import { Lusitana } from 'next/font/google';
 
-const inter = Inter({ subsets: ['latin'] });
 const lusitana = Lusitana({
   weight: ['400', '700'],
   subsets: ['latin'],
